@@ -36,3 +36,6 @@ venv/
 # Claude Design exports (solo versionar los elegidos en design/)
 *.dc.html
 !design/*.dc.html
+
+# Next.js generated
+next-env.d.ts
