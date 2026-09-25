@@ -32,3 +32,7 @@ __pycache__/
 *.py[cod]
 venv/
 .venv/
+
+# Claude Design exports (solo versionar los elegidos en design/)
+*.dc.html
+!design/*.dc.html
